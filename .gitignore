@@ -3,3 +3,6 @@ __pycache__/
 *.py[cod]
 .DS_Store
 Thumbs.db
+kNN_classifier_test.ipynb
+LEARNING_GUIDE.md
+learning_jupyter.ipynb
