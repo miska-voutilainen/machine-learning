@@ -3,6 +3,12 @@
 
 This repository contains completed machine learning assignments and their supporting datasets.
 
+## Project assessment: Helsinki city bikes
+
+[Open the project](citybike_project/) · [analysis notebook](citybike_project/citybike_analysis.ipynb) · [seminar slides (Finnish)](citybike_project/slides/citybike_seminaari.pptx)
+
+A CRISP-DM project on two seasons (2024–2025) of HSL city bike trips combined with FMI hourly weather. It clusters stations into usage roles (k-means, Ward), forecasts hourly demand with and without weather (random forest, log-linear regression; trained on 2024, tested on 2025) and estimates how rain affects different station roles and trip purposes.
+
 ## Assignment 3: Decision Trees and Random Forests
 
 [Open the completed notebook](Decision_trees_and_random_trees.ipynb)
